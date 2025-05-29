@@ -1,5 +1,6 @@
 # Clean-Boogie
 Clean-Boogie: 가로 쓰레기통 위치 배치 분석 프로젝트
+- 본 프로젝트는 Python 3.10 기반의 Conda 가상환경에서 실행되었습니다.
 
 </br>
 
