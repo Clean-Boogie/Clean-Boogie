@@ -64,7 +64,8 @@ Clean-Boogie는 마포구 내 쓰레기통 설치 위치를 다양한 데이터�
 - 도시공원 쓰레기 발생율을 분석하고자 활용
 
 ### 5️⃣ 무단투기 다발 장소
-- `mapo_illegal_dumping_hotspots.csv`  
+- `mapo_illegal_dumping_hotspots.csv`
+- 마포구 → [바로가기](https://www.mapo.go.kr/site/main/openData/view?dataId=169)
 - 마포구청 무단투기 집중 순찰지역 데이터 활용  
 
 ### 6️⃣ 서울 유동 인구 데이터 (2020~2024)
